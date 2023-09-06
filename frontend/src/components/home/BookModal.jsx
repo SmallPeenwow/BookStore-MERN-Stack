@@ -32,14 +32,11 @@ const BookModal = ({ book, onClose }) => {
 
 				<p className='mt-4'>Anything you want to show</p>
 				<p className='my-2'>
-					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde, quis quas? Rerum
-					aspernatur numquam optio voluptatem eaque delectus sed quibusdam possimus, corporis qui
-					omnis quaerat rem autem dignissimos dolorum minima consectetur aliquam fugiat nostrum ipsa
-					voluptatibus vel ratione. Animi doloremque dicta accusantium sint obcaecati. Dolor
-					repellat architecto suscipit tenetur commodi temporibus odio, totam velit nobis,
-					laboriosam voluptatibus sed molestiae obcaecati optio nisi quia facere facilis! Cum
-					eligendi suscipit non iusto excepturi. Eaque adipisci nisi accusamus, maxime temporibus
-					non quas laboriosam.
+					Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur atque maxime nihil rem
+					illo perspiciatis odit optio recusandae minima accusantium fugit perferendis doloribus,
+					sint eum voluptatibus reiciendis labore, facilis qui et rerum cumque. Aliquam veniam ab
+					mollitia hic, perspiciatis officia dolorum cum nemo animi temporibus aut sapiente,
+					reprehenderit earum. Aut.
 				</p>
 			</div>
 		</div>
